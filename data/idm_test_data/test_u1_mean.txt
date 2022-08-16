@@ -1,0 +1,2 @@
+# Mean velocity at the time of test_u3_turbulent.csv
+0.345900303716739
